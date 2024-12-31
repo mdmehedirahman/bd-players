@@ -1,0 +1,26 @@
+.fornt-style {
+    font-family: 'Berkshire Swash';
+    font-weight: 400;
+    font-size: 50px;
+    color: #FF5E19;
+}
+
+.nfs {
+    font-size: 1.4rem;
+}
+
+#bcb-logo {
+    height: 300px;
+    width: 300px;
+}
+
+#sakib-photo {
+    position: relative;
+    bottom: -17px;
+    height: 600px;
+    width: 300px;
+}
+
+.org-color {
+    color: #FF5E19;
+}
